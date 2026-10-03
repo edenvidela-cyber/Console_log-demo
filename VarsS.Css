@@ -1,0 +1,25 @@
+h1 {
+    font-size: 2em;
+    color : Olive;
+    background-color: #053d05;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    font-size: 1.5em;
+    color : Olive;
+    background-color: #053d05;
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    font-size: 1.5em;
+    color : rgb(240, 240, 16);
+    background-color: #00ff00;
+    padding: 10px;
+    text-align: center;
+    display: block;
+    margin: 20px auto;
+}
